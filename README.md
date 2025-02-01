@@ -1,7 +1,7 @@
 # Natural-ou-Fake-Natty
 Descrição
 
-Este vídeo de 1 minuto apresenta uma visão rápida e envolvente do potencial e da aplicação das IAs Generativas na vida cotidiana.
+Este vídeo rápido mostra o potencial  da aplicação das IAs Generativas na vida cotidiana.
 🤖 Tecnologias Utilizadas
 
     IA Generativa ChatGPT, Llama 3.5 para roteirização e revisão;
